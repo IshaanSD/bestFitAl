@@ -1,0 +1,26 @@
+_deps/libsais-build/CMakeFiles/libsais.dir/src/libsais16.c.o: \
+ /home/i3gupta/bestFitAl/build/_deps/libsais-src/src/libsais16.c \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /home/i3gupta/bestFitAl/build/_deps/libsais-src/include/libsais16.h \
+ /home/i3gupta/anaconda3/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include/stdint.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/stdint.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/features.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar.h \
+ /home/i3gupta/anaconda3/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include/stddef.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/stdlib.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdlib-float.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/string.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/string.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/string2.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/endian.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/endian.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /home/i3gupta/anaconda3/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include-fixed/limits.h \
+ /home/i3gupta/anaconda3/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include-fixed/syslimits.h \
+ /home/i3gupta/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include/limits.h \
+ /home/i3gupta/anaconda3/lib/gcc/x86_64-conda-linux-gnu/9.3.0/include/omp.h

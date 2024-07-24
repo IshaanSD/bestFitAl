@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/CMakeFiles/libsais-populate"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/CMakeFiles/libsais-populate.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/CMakeFiles/libsais-populate-complete.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/libsais-populate-prefix/src/libsais-populate-stamp/libsais-populate-build.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/libsais-populate-prefix/src/libsais-populate-stamp/libsais-populate-configure.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/libsais-populate-prefix/src/libsais-populate-stamp/libsais-populate-download.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/libsais-populate-prefix/src/libsais-populate-stamp/libsais-populate-install.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/libsais-populate-prefix/src/libsais-populate-stamp/libsais-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/libsais-populate-prefix/src/libsais-populate-stamp/libsais-populate-patch.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/libsais-populate-prefix/src/libsais-populate-stamp/libsais-populate-test.rule"
+		},
+		{
+			"file" : "/home/i3gupta/bestFitAl/build/_deps/libsais-subbuild/libsais-populate-prefix/src/libsais-populate-stamp/libsais-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libsais-populate"
+		],
+		"name" : "libsais-populate"
+	}
+}

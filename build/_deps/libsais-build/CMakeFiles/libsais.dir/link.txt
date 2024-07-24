@@ -1,0 +1,2 @@
+/home/i3gupta/anaconda3/bin/x86_64-conda-linux-gnu-ar qc liblibsais.a CMakeFiles/libsais.dir/src/libsais.c.o CMakeFiles/libsais.dir/src/libsais16.c.o CMakeFiles/libsais.dir/src/libsais64.c.o
+/home/i3gupta/anaconda3/bin/x86_64-conda-linux-gnu-ranlib liblibsais.a
